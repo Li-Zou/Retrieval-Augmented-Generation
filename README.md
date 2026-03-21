@@ -14,12 +14,10 @@ grounded exclusively in the trusted source material.
 - pip install -r requirements.txt 
 - python app.py
 
-##Note
+## Note
 - You need to have openAI api key
 - The data (PDF files) are just examples—you can replace them with any type of data from your own projects
 
 ## More learning source:
-
-https://www.youtube.com/watch?v=o126p1QN_RI
-
-https://www.meilisearch.com/blog/what-is-rag
+- https://www.youtube.com/watch?v=o126p1QN_RI
+- https://www.meilisearch.com/blog/what-is-rag
